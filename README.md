@@ -2,7 +2,7 @@
 
 _📈 Analyzing mobile sales performance, customer behavior, and payment trends to support data-driven retail decision-making using Power BI and DAX._
 
----
+--- 
 
 ## 📌 Table of Contents
 - <a href="#overview"> Overview</a>
